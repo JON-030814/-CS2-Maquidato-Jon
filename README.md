@@ -1,9 +1,9 @@
 # -CS2-Maquidato-Jon
 # Student Grade Calculator
 ## Description
-This program calculates the average of two activity scores.
+This program calculates the electricity consumption.
 ## Version 1 - Original code without input validation
-- Input: Accepts a student's name and two activity scores.
+- Input: Accepts a .
 - Process: Calculates and displays the average score.
 - Output: Average score.
 - Does not include input validation.

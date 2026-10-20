@@ -1,5 +1,5 @@
 # -CS2-Maquidato-Jon
-# Student Grade Calculator
+# Electricity Calculator
 ## Description
 This program calculates the electricity consumption.
 ## Version 1 - Original code without input validation

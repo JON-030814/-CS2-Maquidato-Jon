@@ -6,7 +6,7 @@ This program calculates the electricity consumption.
 - Input: Accepts a name, previous meter reading, and current meter reading.
 - Process: Calculates and displays the electricity consumed and total bill.
 - Output: Electricity consumption and total bill.
-- Does not include input validation.
+- Does include input validation.
 
 
 
